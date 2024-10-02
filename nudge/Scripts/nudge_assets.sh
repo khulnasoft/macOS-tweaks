@@ -14,5 +14,5 @@ fi
 
 #Grab latest asset images
 echo "Downloading latest asset images"
-/usr/bin/curl "https://raw.githubusercontent.com/khulnasoft-lab/macOS-tweaks/master/nudge/Assets/vercelmdm_dk.png" -o "/Users/Shared/nudge/vercelmdm_dk.png"
-/usr/bin/curl "https://raw.githubusercontent.com/khulnasoft-lab/macOS-tweaks/master/nudge/Assets/vercelmdm_lt.png" -o "/Users/Shared/nudge/vercelmdm_lt.png"
+/usr/bin/curl "https://raw.githubusercontent.com/khulnasoft-lab/macOS-tweaks/master/nudge/Assets/khulnasoftmdm_dk.png" -o "/Users/Shared/nudge/khulnasoftmdm_dk.png"
+/usr/bin/curl "https://raw.githubusercontent.com/khulnasoft-lab/macOS-tweaks/master/nudge/Assets/khulnasoftmdm_lt.png" -o "/Users/Shared/nudge/khulnasoftmdm_lt.png"

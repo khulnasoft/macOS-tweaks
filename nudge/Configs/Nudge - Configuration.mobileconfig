@@ -28,7 +28,7 @@
 	<key>PayloadIdentifier</key>
 	<string>com.github.macadmins.Nudge</string>
 	<key>PayloadOrganization</key>
-	<string>Vercel</string>
+	<string>KhulnaSoft</string>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>

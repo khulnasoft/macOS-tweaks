@@ -1,0 +1,278 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "CFBundleDisplayName" : {
+      "comment" : "Bundle display name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PrivilegesXPC"
+          }
+        },
+      },
+      "shouldTranslate" : false
+    },
+    "CFBundleName" : {
+      "comment" : "Bundle name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PrivilegesXPC"
+          }
+        },
+      },
+      "shouldTranslate" : false
+    },
+    "NSHumanReadableCopyright" : {
+      "comment" : "the copyright string (for the application's info window in Finder)",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016–2024 KhulnaSoft, Ltd.\nجميع الحقوق محفوظة."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nTots els drets reservats."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nVšechna práva vyhrazena."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nAlle rettigheder forbeholdes."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nAlle Rechte vorbehalten."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nΜε επιφύλαξη κάθε δικαιώματος."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nAll rights reserved."
+          }
+        },
+        "en-AU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nAll rights reserved."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nAll rights reserved."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nTodos los derechos reservados."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nTodos los derechos reservados."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nKaikki oikeudet pidätetään."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nTous droits réservés."
+          }
+        },
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nTous droits réservés."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nכל הזכויות שמורות."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nसर्वाधिकार सुरक्षित।"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nSva prava pridržana."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nMinden jog fenntartva."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nSemua hak cipta dilindungi undang-undang."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nTutti i diritti riservati."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\n無断転載を禁ずる。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\n모든 권리 보유."
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nHak cipta terpelihara."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nAlle rettigheter forbeholdes."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nAlle rechten voorbehouden."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nWszystkie prawa zastrzeżone."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nTodos os direitos reservados."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nTodos os direitos reservados."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nToate drepturile rezervate."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nВсе права защищены."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nVšetky práva vyhradené."
+          }
+        },
+        "sl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nVse pravice pridržane."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nAlla rättigheter förbehålls."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nสงวนสิทธิ์ทุกประการ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nTüm hakları saklıdır."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nУсі права захищено."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\nMọi quyền được bảo lưu."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\n保留一切权利。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\n保留一切權利。"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2016-2024 KhulnaSoft, Ltd.\n保留一切權利。"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

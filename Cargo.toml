@@ -1,0 +1,11 @@
+[package]
+name = "mac-tweaks"
+version = "0.1.0"
+edition = "2021"
+description = "A tool for tweaking macOS settings"
+authors = ["Md Sulaiman <dev.sulaiman@icloud.com>"]
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+rayon = "1.5"
+dashmap = "5.0"

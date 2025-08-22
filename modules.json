@@ -1,0 +1,37 @@
+{
+  "modules": [
+    {
+      "name": "Security Hardening",
+      "description": "Applies advanced security configurations and system baseline.",
+      "scripts": [
+        "modules/security_hardening/blackhat.sh",
+        "modules/security_hardening/baseline.sh"
+      ],
+      "help_file": "modules/security_hardening/help.md"
+    },
+    {
+      "name": "System Configuration",
+      "description": "Applies general system configurations and tweaks.",
+      "scripts": [
+        "modules/system_config/os_config.sh"
+      ],
+      "help_file": "modules/system_config/help.md"
+    },
+    {
+      "name": "Run Maintenance",
+      "description": "Runs cleanup and maintenance tasks.",
+      "scripts": [
+        "modules/maintenance/maid.sh"
+      ],
+      "help_file": "modules/maintenance/help.md"
+    },
+    {
+      "name": "MAC Address Spoofing",
+      "description": "Randomize or reset your MAC address.",
+      "scripts": [
+        "modules/mac_address/set_random_mac.py"
+      ],
+      "help_file": "modules/mac_address/help.md"
+    }
+  ]
+}
